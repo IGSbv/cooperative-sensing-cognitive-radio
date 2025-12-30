@@ -1,6 +1,6 @@
 # **Cooperative Spectrum Sensing in Cognitive Radio Networks**
 
-### **Using Centralized Bayesian Decision Fusion and Distributed Hidden Markov Models**
+### **Using Centralized Bayesian Decision Fusion and Centralized Hidden Markov Models**
 
 ## **📌 Project Overview**
 
