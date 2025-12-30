@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Cooperative Spectrum Sensing in Cognitive Radio Networks**
 
 ### **Using Centralized Bayesian Decision Fusion and Distributed Hidden Markov Models**
@@ -104,3 +105,6 @@ The project is modular. You can run specific phases to verify different layers o
 ## **📜 Conclusion**
 
 This project demonstrates that while physical signal degradation (fading) is inevitable, **algorithmic cooperation** can recover lost reliability. By moving from hard-decision energy detection to soft-decision Bayesian Fusion, we bridge the gap required for reliable Cognitive Radio networks.
+=======
+# cooperative-sensing-cognitive-radio
+>>>>>>> 82f495db9c3e19736c4ae66cbbd39366ea5e8f86
